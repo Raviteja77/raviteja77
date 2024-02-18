@@ -13,6 +13,8 @@ I'm Ravi Teja Geddada, a Graduate student studying Computer Software Engineering
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raviteja77&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja77&theme=react)](https://github.com/raviteja77/github-readme-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raviteja77&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
