@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/Raviteja77/raviteja77/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 # 💫 About Me:
 
 I'm Ravi Teja Geddada, a Graduate student studying Computer Software Engineering at Clark University in Worcester. With 2 years of experience as a Software Engineer at EPAM Systems, I've gained a solid foundation in software development and honed my skills in programming languages like JavaScript, Angular, React, NodeJs, Python, Java and SQL.<br><br>I completed my bachelors at CMR Institute of Technology in Hyderabad. During my academic career, I worked on several projects in web development, including designing and developing websites using BootStrap, PrimeNg, and other web technologies.<br><br>As I'm passionate about software development, I'm always looking to enhance my skills and knowledge. Currently, I'm on the lookout for Job Opportunities in the United States and India, where I can apply my expertise, learn new technologies, and gain valuable work experience.<br><br>If you'd like to connect with me, feel free to reach out to me on my LinkedIn profile. I look forward to connecting with you!
