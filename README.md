@@ -2,7 +2,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/Raviteja77/raviteja77/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-I'm Ravi Teja Geddada, a Graduate student in Computer Software Engineering at Clark University in Worcester. With 2 years of experience as a Software Engineer at EPAM Systems, I've gained a solid foundation in software development and honed my skills in programming languages like JavaScript, Angular, React, NodeJs, Python, Java and SQL.<br><br>I completed my bachelors at CMR Institute of Technology in Hyderabad. During my academic career, I worked on several projects in web development, including designing and developing websites using BootStrap, PrimeNg, and other web technologies.<br><br>As I'm passionate about software development, I'm always looking to enhance my skills and knowledge. Currently, I'm on the lookout for Job Opportunities in the United States and India, where I can apply my expertise, learn new technologies, and gain valuable work experience.<br><br>If you'd like to connect with me, feel free to reach out to me on my LinkedIn profile. I look forward to connecting with you!
+I'm Ravi Teja Geddada, a Software Engineer with experience at Fidelity Investments via Compunnel Inc. I hold a Master's degree in Computer Science from Clark University. With over 3 years of professional experience at companies like Fidelity (via Compunnel Inc), CSX (via CompNova LLC), and Google (via EPAM Systems), I've developed a strong foundation in web development and honed my skills in modern technologies.
+
+I specialize in developing responsive web applications using Angular, React, Lit Elements, and other front-end technologies. My technical expertise includes JavaScript (ES6+), TypeScript, Java, Python, and various frameworks including NgRx, Redux, Node.js, and Spring Boot.
+
+Throughout my career, I've worked on projects ranging from migrating Angular applications to implementing GraphQL queries, always focusing on creating seamless user experiences and optimizing application performance.
+
+As I continue my professional journey, I'm passionate about leveraging my skills in software development and staying current with emerging technologies. I'm open to new opportunities where I can apply my expertise, contribute to innovative projects, and collaborate with talented professionals.
+
+Feel free to connect with me on LinkedIn or explore my projects on this GitHub profile. I look forward to connecting with you!
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raviteja77)
